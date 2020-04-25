@@ -1,10 +1,10 @@
 # ahocorasick
 Aho-Corasick String Multimatching
 
-Sample input:
-4
-abra
-bra
-ka
-a
-abrakadabra
+## Sample input
+4<br/>
+abra<br/>
+bra<br/>
+ka<br/>
+a<br/>
+abrakadabra<br/>
